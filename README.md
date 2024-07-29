@@ -30,7 +30,7 @@ ng g modules mymodules
 #
 ng g header myheader
 # Four Types of Data Binding in Angular 
-
+![image](https://github.com/user-attachments/assets/629461cf-f833-4200-bf0b-421af5dd7df3)
 # interpolation
 Interpolation is a way to use the properties in the component’s TypeScript class within the HTML template.
 ![image](https://github.com/user-attachments/assets/d16113c3-a8fd-49e4-b895-8be2d47a553a)
