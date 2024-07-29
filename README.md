@@ -31,6 +31,11 @@ ng g modules mymodules
 ng g header myheader
 # interpolation
 Interpolation is a way to use the properties in the component’s TypeScript class within the HTML template.
+![image](https://github.com/user-attachments/assets/d16113c3-a8fd-49e4-b895-8be2d47a553a)
+![image](https://github.com/user-attachments/assets/335fd64d-6edd-43ce-b799-f8f43604c9a5)
+# Binding in Angular
+Binding in Angular is used to define values of HTML properties and events using class members.  
+
 
 
 ![image](https://github.com/user-attachments/assets/c733a55f-9835-4429-ab6f-da8e9e1e88a2)
