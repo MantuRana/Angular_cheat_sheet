@@ -18,7 +18,14 @@ component.ts(it contain all the logic variable of the app)
 component.spec.ts(for testing purpose)
 # Services
 Services are objects for outsourcing logic and data that can be injected into our components
-
+![image](https://github.com/user-attachments/assets/b790ca17-f713-4958-9198-cf57f3ffdd25)
+# package.json(all about project information/details)
+# node_modules(all libiraries inside this folder)
+# how to make component, service, module and header
+ng g c mycomponent
+ng g s myservice
+ng g modules mymodules
+ng g header myheader
 
 
 
