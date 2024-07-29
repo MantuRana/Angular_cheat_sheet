@@ -37,6 +37,7 @@ Interpolation is a way to use the properties in the component’s TypeScript cla
 ![image](https://github.com/user-attachments/assets/335fd64d-6edd-43ce-b799-f8f43604c9a5)
 # Property Binding
 Property Binding is a one-directional and helps us pass the value of HTML properties from the component class to the HTML template that renders them
+![image](https://github.com/user-attachments/assets/56f4e57f-2d73-4e4b-9ad2-6a5262fbbd7f)
 
 # Binding in Angular
 Binding in Angular is used to define values of HTML properties and events using class members.  
