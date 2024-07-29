@@ -29,7 +29,8 @@ ng g s myservice
 ng g modules mymodules
 #
 ng g header myheader
-
+![image](https://github.com/user-attachments/assets/c733a55f-9835-4429-ab6f-da8e9e1e88a2)
+![image](https://github.com/user-attachments/assets/ece703b6-5a84-43f8-8b13-57d249fbc42b)
 
 
 
