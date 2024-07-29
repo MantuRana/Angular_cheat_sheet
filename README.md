@@ -35,6 +35,9 @@ ng g header myheader
 Interpolation is a way to use the properties in the component’s TypeScript class within the HTML template.
 ![image](https://github.com/user-attachments/assets/d16113c3-a8fd-49e4-b895-8be2d47a553a)
 ![image](https://github.com/user-attachments/assets/335fd64d-6edd-43ce-b799-f8f43604c9a5)
+# Property Binding
+Property Binding is a one-directional and helps us pass the value of HTML properties from the component class to the HTML template that renders them
+
 # Binding in Angular
 Binding in Angular is used to define values of HTML properties and events using class members.  
 
