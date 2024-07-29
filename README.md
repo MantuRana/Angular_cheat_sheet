@@ -23,8 +23,11 @@ Services are objects for outsourcing logic and data that can be injected into ou
 # node_modules(all libiraries inside this folder)
 # how to make component, service, module and header
 ng g c mycomponent
+#
 ng g s myservice
+#
 ng g modules mymodules
+#
 ng g header myheader
 
 
